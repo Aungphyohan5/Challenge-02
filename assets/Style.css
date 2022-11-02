@@ -96,6 +96,13 @@ body {
     background-color: rgb(132, 204, 24);
 }
 
+.profile-img {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100px;
+
+}
+
 .aboutme {
     display: flex;
     align-items: center;
@@ -144,6 +151,7 @@ body {
 }
 
 .photo:hover {
+    transform: scale(1.2);
     box-shadow: 0 0 10px red;
 }
 
@@ -195,5 +203,10 @@ body {
         top: 20px;
         right: 5px;
         font-size: 30px;
+    }
+
+    .profile-img {
+        position: relative;
+        right: 50px;
     }
 }
