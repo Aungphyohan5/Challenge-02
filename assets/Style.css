@@ -4,6 +4,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+/* Element Style*/
 header {
     text-align: left;
     padding: 10px;
@@ -13,8 +14,6 @@ header {
     background-size: cover;
     color: rgb(243, 233, 243);
     font-family: 'Times New Roman', Times, serif;
-
-
 }
 
 h1::after {
@@ -32,7 +31,6 @@ nav a {
     font-size: 18px;
     width: 20%;
     text-decoration: none;
-
 }
 
 nav {
@@ -79,7 +77,7 @@ body {
     background-size: cover;
 }
 
-/* Style element */
+/* Class Style */
 .navbar {
     display: flex;
     flex-direction: row;
@@ -99,8 +97,7 @@ body {
 .profile-img {
     display: flex;
     flex-wrap: wrap;
-    min-width: 100px;
-
+    max-width: 500px;
 }
 
 .aboutme {
@@ -111,8 +108,6 @@ body {
     width: 60%;
     height: 400px;
 }
-
-
 
 .info {
     padding-top: 30px;
@@ -140,7 +135,6 @@ body {
     width: 180px;
     min-width: 200px;
     height: 180px;
-
 }
 
 .mainheader {
@@ -179,8 +173,6 @@ body {
 
 /* Media Screen */
 @media screen and (max-width: 992px) {
-    body {}
-
 
     header {
         background: #035898;
@@ -207,6 +199,26 @@ body {
 
     .profile-img {
         position: relative;
-        right: 50px;
+        right: 80px;
+    }
+
+    .info {
+        position: relative;
+        right: 70px;
+        font-size: medium;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .profile-img {
+        width: 30%;
+        height: auto;
+    }
+
+    .aboutme {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 50px 5px 50px 100px;
+        width: 70%;
     }
 }

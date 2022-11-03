@@ -8,7 +8,7 @@ In this project, I am going to make a portfolio that satisfies a typical hiring 
 
 - [Tasks Completed](#TaskCompleted)
 - [Links](#Links)
-- [Screenshot](#Screenshot)
+- [Application](#Application)
 - [License](#license)
 
 ## Tasks Completed
@@ -25,13 +25,13 @@ In this project, I am going to make a portfolio that satisfies a typical hiring 
 
 ## Links
 
-Website URL     - 
+Website URL     - https://aungphyohan5.github.io/Challenge-02/
 
 Repository URL  - https://github.com/Aungphyohan5/Challenge-02
 
-## Screenshot
+## Application
 
-![App Screenshot]()
+![App Screenshot](./assets/images/Portfolio.mp4)
 
 ## License
 
