@@ -13,7 +13,7 @@ In this project, I am going to make a portfolio that satisfies a typical hiring 
 
 ## Tasks Completed
 
-- Presented the developer's name, avatar and link to sections about them, their work, and how to contact them
+- Presented the developer's name, avatar and link to sections about me, work, and how to contact
 - Navigation link for the relevant section
 - The project's image linked to their deployed application
 - Reized the page for various devices
