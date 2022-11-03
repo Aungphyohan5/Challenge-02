@@ -10,6 +10,7 @@ In this project, I am going to make a portfolio that satisfies a typical hiring 
 - [Links](#Links)
 - [Screenshot](#Screenshot)
 - [License](#license)
+- [Credits](#credits)
 
 ## Tasks Completed
 
