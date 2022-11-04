@@ -1,4 +1,4 @@
-## portfolio
+## Professional Portfolio
 
 In this project, I am going to make a portfolio that satisfies a typical hiring manager's needs.
 
